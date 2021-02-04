@@ -1,6 +1,6 @@
 #include<Rishita.h>
 
-int main(){
+int rishita(){
     printf("This is Rishita");
     return 0;
 }
