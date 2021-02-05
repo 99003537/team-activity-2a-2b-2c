@@ -19,7 +19,7 @@ src/sumit.c\
 #
 
 $(BUILD):
-	mkdir build#include"sumit.h"
+	mkdir build#
 
 
 INC = -Iheader 
