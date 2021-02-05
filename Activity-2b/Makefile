@@ -10,7 +10,7 @@ src/dhyan.c\
 src/harshita.c\
 src/lakshita.c\
 src/namratha.c\
-src/rishita.c\
+src/Rishita.c\
 src/satya.c\
 src/srushti.c\
 src/sumit.c\
