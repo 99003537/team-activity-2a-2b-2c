@@ -15,11 +15,12 @@ src/satya.c\
 src/srushti.c\
 src/sumit.c\
 
-#
+
 
 
 $(BUILD):
-	mkdir build
+	mkdir build#include"sumit.h"
+
 
 INC = -Iheader 
 
