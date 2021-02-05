@@ -1,0 +1,17 @@
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+        
+        
+    - name: make run
+      run: make run -C /Activity-2b/
+      
+    
