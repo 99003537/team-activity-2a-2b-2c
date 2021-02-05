@@ -4,7 +4,7 @@ all: run clean
 BUILD = build
 
 
-SRC = main.c\
+SRC = src/main.c\
 src/christyjohnson.c\
 src/dhyan.c\
 src/harshita.c\
