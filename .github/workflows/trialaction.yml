@@ -12,6 +12,6 @@ jobs:
         
         
     - name: make run
-      run: make run -C /Activity-2b/
+      run: make run -C /Activity-2b
       
     
