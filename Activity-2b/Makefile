@@ -4,7 +4,7 @@ all: run clean
 BUILD = build
 
 
-SRC = main.c\
+SRC = main.c \
 src/christyjohnson.c\
 src/dhyan.c\
 src/harshita.c\
@@ -16,7 +16,7 @@ src/srushti.c\
 src/sumit.c\
 
 
-#
+
 
 $(BUILD):
 	mkdir build
