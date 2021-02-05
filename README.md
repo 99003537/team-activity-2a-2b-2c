@@ -6,8 +6,5 @@
  ## folder Activity-2b
  consists of group tasks activity -2b
  
- ### folder activity 2b
- #### header 
- #### src
- #### makefile
- #### main.c
+ ### folder activity 2b has:
+ #### header, src, makefile, main.c
