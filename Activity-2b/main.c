@@ -18,9 +18,9 @@ int main(){
  lakshita();
  namratha();
  rishita();
- satay();
+ satya();
  srushti();
- 
+
 
 
 }
