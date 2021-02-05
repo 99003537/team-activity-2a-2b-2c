@@ -19,7 +19,7 @@ src/sumit.c\
 #
 
 $(BUILD):
-	mkdir build#
+	mkdir build
 
 
 INC = -Iheader 
